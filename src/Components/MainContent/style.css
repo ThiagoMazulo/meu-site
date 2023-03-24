@@ -1,0 +1,29 @@
+.main-container {
+width: 100%;
+}
+
+.sliderContainer {
+    width: 50%;
+    margin: -280px auto 0 ;
+}
+
+
+.slider {
+    width: 100%;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto; 
+    /* margin-top: -250px; */
+    display: flex;
+}
+.slider img {
+    
+    width: 1200px;
+    -webkit-box-shadow: 11px 8px 40px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 8px 40px 2px rgba(0,0,0,0.75);
+    box-shadow: 11px 8px 40px 2px rgba(0,0,0,0.75);
+    /* height: 700px; */
+  
+
+
+}

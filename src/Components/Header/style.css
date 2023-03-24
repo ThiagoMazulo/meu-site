@@ -1,0 +1,51 @@
+
+
+.header {
+    height: 450px;
+    max-width: auto;
+    background-color: rgb(12, 12, 12);
+
+}
+
+
+.header .content {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #fff;
+    padding: 20px;
+}
+
+.header img {
+    width: 300px; 
+    height: 190;
+}
+
+.minhalogo {
+    margin-left: 150px;
+    max-width: 100%;
+}
+
+
+.header .content .menu {
+margin-top: 70px;
+}
+  
+
+.menu div a {
+    margin-right: 100px;
+    margin-top: 70px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+
+
+
+/* 
+sem nada referencia a tag (div, header, nav)
+com ponto referenvia a classe (className)
+# referencia ao id
+*/
