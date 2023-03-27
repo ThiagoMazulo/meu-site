@@ -2,12 +2,5 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Source Serif Pro', serif;
-}
-
-.pageContainer {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  
+  font-family: "Source Serif Pro", serif;
 }
